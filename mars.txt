@@ -2,7 +2,9 @@ This is a change.
 This is the new second line.
 This is a second change.
 
-
-
+1
+2
 
 lines below
+
+HELLO!
